@@ -1,0 +1,3 @@
+In questo progetto analizzo il dataset relativo ad una fittizia piattaforma online progettata specificamente per supportare e migliorare le attività educative; nel dataset sono presenti gli user_id degli studenti, i corsi, la tipologia, gli insegnanti e il rating dato dagli stessi studenti al corso
+L’obiettivo dell’analisi è quello di avere una panoramica dei vari studenti di vari corsi, individuare quali sono i corsi (e gli insegnanti) con il rating più altro, controllare se ci sono dei trend temporali e ipotizzare uno scenario futuro della piattaforma.
+Ho svolto un’analisi dei dati utilizzando Python e successivamente ho creato delle Dashboard con Tableau
